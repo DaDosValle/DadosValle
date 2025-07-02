@@ -2,7 +2,7 @@
 
 > *"Não sou apenas um aluno de tecnologia. Sou alguém que resolveu transformar perguntas em respostas baseadas em dados... respostas baseadas em dados em código... código em solução... e solução em produto comercializável."*
 ---
-<p align="center"> <img src="https://raw.githubusercontent.com/DaDosValle/Imagens/refs/heads/main/minha%20logomarca%20analista%20e%20devs.jpg" alt="Minha imagem" style="max-width:100%; height:auto;" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/DaDosValle/Imagens/refs/heads/main/minha%20logomarca%20analista%20e%20devs.jpg" alt="Minha imagem" style="max-width:50%; height:auto;" /> </p>
 
 
  <h1 align="center">Olá, mundo. Eu sou o Fernando do Valle</h1>
@@ -65,15 +65,32 @@ Inclusive, tenho um pequeno e-commerce há três anos, onde idealizo, confeccion
 
 ## 📚 Skills que estou aprendendo (ou já tenho alguma experiência):
 
-- 💻 Back End com Python
+### Análise e Ciência de Dados
 - 📊 Power BI e visualização de dados com storytelling
-- 🧠 Estratégia de conteúdo e copywriting
-- 🛒 Marketing Digital com foco em e-commerce
-- 🤝 Comunicação empática (sim, isso é uma skill!)
 - 📈 Pensamento analítico orientado a dados
 - ❤️ R, meu amor!
 
+### Desenvolvimento
+- 💻 Back End com Python
+
+### Marketing Digital
+- 🧠 Estratégia de conteúdo e copywriting
+- 🛒 Marketing Digital com foco em e-commerce
+
+### Habilidades Comportamentais (Soft Skills)
+- 🤝 Comunicação empática (sim, isso é uma skill!)
+
 ---
+# Meu E-commerce: Paixão, Propósito e Pioneirismo
+
+Há três anos, meu e-commerce nasceu de uma necessidade pessoal e transformadora. Como pai de uma menina autista, senti na pele o preconceito e a falta de visibilidade. Uma situação constrangedora em uma fila me impulsionou a agir.
+
+Foi assim que criei o primeiro crachá de identificação para autistas com QR Code – uma inovação que trouxe dignidade e acesso a direitos com um toque de praticidade, validando laudos na palma da mão. Tenho orgulho de ter sido pioneiro nessa solução, e a fidelidade dos meus clientes prova o valor e a confiança que construí.
+
+Esse pequeno negócio é meu laboratório. Cada produto que idealizei, criei e vendi me deu uma experiência real que agora, com as habilidades que estou desenvolvendo em dados, desenvolvimento e marketing digital, quero levar a um novo nível. Meu objetivo é impulsionar meu e-commerce e, mais importante, gerar um impacto ainda maior para a comunidade neurodivergente.
+
+
+
 
 ## 🤝 Vamos nos conhecer melhor? Ou quem sabe "bolar" aquele aplicativo de milhões? (Risos) Sei que isso é clichê.
 
