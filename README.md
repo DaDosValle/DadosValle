@@ -2,7 +2,7 @@
 
 > *"Não sou apenas um aluno de tecnologia. Sou alguém que resolveu transformar perguntas em respostas baseadas em dados... respostas baseadas em dados em código... código em solução... e solução em produto comercializável."*
 ---
-<p align="center"> <img src="https://raw.githubusercontent.com/DaDosValle/Imagens/refs/heads/main/minha%20logomarca%20analista%20e%20devs.jpg" alt="Minha imagem" style="max-width:50%; height:auto;" /> </p>
+<p align="center"> <img src="https://github.com/DaDosValle/Imagens/blob/main/capa%20llllLLLLLLLLLLLLLLLLLLLLL.jpg" alt="Minha imagem" style="max-width:50%; height:auto;" /> </p>
 
 
  <h1 align="center">Olá, mundo. Eu sou o Fernando do Valle</h1>
