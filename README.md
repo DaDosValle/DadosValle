@@ -1,4 +1,7 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 # 💡 De um futuro cietista de dados especialista performance digital que é curioso para um mundo que precisa de soluções baseado em dados.
+
+<p align="center"> <img src="https://github.com/DaDosValle/Imagens/blob/main/capa%20llllLLLLLLLLLLLLLLLLLLLLL.jpg" alt="Minha imagem" style="max-width:50%; height:auto;" /> </p>
 
 > *"Não trata-se de ser apenas um aluno de tecnologia, mas de alguém que resolveu também transformar:
 > * Perguntas em respostas baseadas em dados...
@@ -7,7 +10,6 @@
 > * Solução em produto comercializável...
 > * E por fim, produto comercializável em cliente fidelizado"*
 ---
-<p align="center"> <img src="https://github.com/DaDosValle/Imagens/blob/main/capa%20llllLLLLLLLLLLLLLLLLLLLLL.jpg" alt="Minha imagem" style="max-width:50%; height:auto;" /> </p>
 
 
  <h1 align="center">Olá, mundo. Eu sou o Fernando do Valle</h1>
