@@ -1,6 +1,11 @@
-# 💡 De um futuro dev/analista de dados curioso para um mundo que precisa de soluções e respostas baseado em dados
+# 💡 De um futuro cietista de dados especialista performance digital que é curioso para um mundo que precisa de soluções baseado em dados.
 
-> *"Não sou apenas um aluno de tecnologia. Sou alguém que resolveu transformar perguntas em respostas baseadas em dados... respostas baseadas em dados em código... código em solução... e solução em produto comercializável."*
+> *"Não trata-se de ser apenas um aluno de tecnologia, mas de alguém que resolveu também transformar:
+> * Perguntas em respostas baseadas em dados...
+> * Respostas baseadas em dados em código Python ou Javascript...
+> * Código em solução...
+> * Solução em produto comercializável...
+> * E por fim, produto comercializável em cliente fidelizado"*
 ---
 <p align="center"> <img src="https://github.com/DaDosValle/Imagens/blob/main/capa%20llllLLLLLLLLLLLLLLLLLLLLL.jpg" alt="Minha imagem" style="max-width:50%; height:auto;" /> </p>
 
@@ -80,6 +85,12 @@ Inclusive, tenho um pequeno e-commerce há três anos, onde idealizo, confeccion
 ### Habilidades Comportamentais (Soft Skills)
 - 🤝 Comunicação empática (sim, isso é uma skill!)
 
+
+<div>
+<a href="https://github.com/DadosValle">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDosValle&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ---
 # Meu E-commerce: Paixão, Propósito e Pioneirismo
 
@@ -98,3 +109,12 @@ Se você leu até aqui, talvez tenhamos algo em comum: a vontade de construir al
 
 👉 Me chama no [LinkedIn](https://www.linkedin.com/in/fernando-m-do-valle-b653a7349/) — adoro **conhecer gente boa, trocar ideias ou simplesmente saber que você está ali**.  
 Quem sabe essa leitura seja o **começo de uma amizade**? 💙
+
+## Contatos:
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/fernando.dovalle" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "fsf.dovalle@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="(https://www.linkedin.com/in/fernando-m-do-valle-b653a7349/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
